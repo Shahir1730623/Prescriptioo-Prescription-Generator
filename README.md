@@ -27,3 +27,20 @@ Priscriptoo is an all-in-one digital solution tailored for the healthcare indust
   <h3>Frontend and Backend</h3>Developed using the powerful and cross-platform Flutter (Dart) framework.
   <h3>Data Interchange</h3>Utilized APIs for fetching and storing data.
   <h3>Document Generation</h3>Integrated PDF generator for creating downloadable prescriptions.
+
+<h2>App Screenshots</h2>
+<img src="Images/1.png" width="400">
+<img src="Images/2.png" width="400">
+<img src="Images/3.png" width="400">
+<img src="Images/4.png" width="400">
+<img src="Images/5.png" width="400">
+<img src="Images/6.png" width="400">
+<img src="Images/7.png" width="400">
+<img src="Images/8.png" width="400">
+<img src="Images/9.png" width="400">
+<img src="Images/10.png" width="400">
+<img src="Images/11.png" width="400">
+<img src="Images/12.png" width="400">
+<img src="Images/13.png" width="400">
+<img src="Images/14.png" width="400">
+
