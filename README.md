@@ -1,4 +1,4 @@
-<h1>Priscriptoo - Prescription Generator 🩺</h1>
+<h1>Prescriptoo - Prescription Generator 🩺</h1>
 <h2>Overview</h2>
 
 Priscriptoo is an all-in-one digital solution tailored for the healthcare industry to simplify and streamline the prescription and patient management process. With the powerful capabilities of generating PDF prescriptions and managing a multi-layer user system, the application is poised to be an indispensable tool for doctors, compounders, businesses, and administrators.
